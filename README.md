@@ -23,5 +23,4 @@ Rutrn the texted file in order using callback funtion
 * `npm test`
 #### Tests
 * Run `npm test`
-* What assertions were made?
-* What assertions need to be / should be made?
+* All test are passing.
