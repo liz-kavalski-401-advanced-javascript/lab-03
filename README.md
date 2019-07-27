@@ -23,4 +23,4 @@ Rutrn the texted file in order using callback funtion
 * `npm test`
 #### Tests
 * Run `npm test`
-* All test are passing.
+* All test are passing. The test are testing if each of the reader.js(including broken and promise) are putting the texted files in the right order.
