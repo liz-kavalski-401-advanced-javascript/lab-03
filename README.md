@@ -16,7 +16,7 @@ Return the texted files in random order.
 #### reader-promise.js
 Ruturn the texted file in order using promises.
 #### reader.js
-Ruturn the texted file in order using callback funtion
+Ruturn the texted file in order using callback funtion.
 
 #### Running the app
 * `npm test`
