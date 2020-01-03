@@ -1,4 +1,3 @@
-
 # LAB-03
 
 ### Author: Liz Kavalski
@@ -15,12 +14,15 @@ Writes a random numbers in a file called `test.txt`
 #### reader-broken.js
 Return the texted files in random order.
 #### reader-promise.js
-Rutrn the texted file in order using promises.
+
+Ruturn the texted file in order using promises.
 #### reader.js
-Rutrn the texted file in order using callback funtion
+Ruturn the texted file in order using callback funtion.
+
 
 #### Running the app
 * `npm test`
 #### Tests
 * Run `npm test`
 * All test are passing. The test are testing if each of the reader.js(including broken and promise) are putting the texted files in the right order.
+
